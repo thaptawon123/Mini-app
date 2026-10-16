@@ -1,0 +1,6 @@
+{
+  "name": "Saving Goal App - OOAD & OOP Mini Project",
+  "description": "มินิโปรเจกต์แอปพลิเคชันออมเงิน (Saving Goal App) ด้วยภาษา Python, Tkinter และ JSON ออกแบบตามหลัก OOAD และ OOP",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
